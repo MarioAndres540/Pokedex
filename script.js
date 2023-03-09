@@ -1,4 +1,4 @@
-const pokeCard = document.querySelector('[data-poke-card');
+const pokeCard = document.querySelector('[data-poke-card]');
 const pokeName = document.querySelector('[data-poke-name]');
 const pokeImg = document.querySelector('[data-poke-img]');
 const pokeImgContainer = document.querySelector('[data-poke-img-container]');
@@ -11,7 +11,7 @@ const typeColors = {
     normal: '#B09398',
     fire: '#FF675C',
     water: '#0596C7',
-    ice: 'AFEAFD',
+    ice: '#AFEAFD',
     rock: '#999799',
     flying: '#7AE7C7',
     grass: '#4A9681',
